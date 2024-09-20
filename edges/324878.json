@@ -1,1 +1,1 @@
-{"name": "عوامل_ضد_آکنه", "id": 324878, "predecessors": [{"name": "داروها", "id": 91885}], "successors": []}
+{"name": "عوامل_ضد_آکنه", "id": 324878, "predecessors": [{"name": "داروها", "id": 91885}, {"name": "درمان", "id": 328415}], "successors": []}
